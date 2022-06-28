@@ -3,3 +3,4 @@
 ### Projetos praticos React Native.
 ### Cada Pasta é um Projeto pratico do BootCamp
 ### DioRN (Projeto para aprender e praticar os componentes basicos do ReactNative)
+### flashlight(aplicativo que acende a lanterna do smartphone ao balançar)
